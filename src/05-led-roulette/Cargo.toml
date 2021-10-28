@@ -10,3 +10,4 @@ version = "0.2.0"
 
 [dependencies]
 aux5 = { path = "auxiliary" }
+volatile = "0.4.4"

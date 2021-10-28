@@ -34,3 +34,7 @@ continue
 
 # Step from the trampoline code in entry into main
 step
+
+# Enable tui mode
+tui enable
+tui reg general
